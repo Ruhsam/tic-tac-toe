@@ -2,6 +2,15 @@
   margin-top: 10px;
 }
 
+.X {
+   background-image: url("tictac.jpg")
+   background-size: contain
+}
+
+.O {
+    background-image: url("toe.jpg")
+    background-size: contain  
+}
 .box {
   border: 1px solid black;
   height: 150px;
